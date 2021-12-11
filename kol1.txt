@@ -2,3 +2,4 @@ Zmiana1
 Zmiana5
 Zmiana6
 Zmianaaaa
+ZmianaX
